@@ -506,7 +506,7 @@ nav button {
         border: none;
         outline: none;
         cursor: pointer;
-        margin: 10px 0;
+        margin: 7px 0;
     }
 
     .botmiddle {
@@ -574,8 +574,8 @@ nav button {
 
     .slayd img {
         border-radius: 50%;
-        width: 55px;
-        height: 55px;
+        width: 45px;
+        height: 45px;
 
     }
 
@@ -597,8 +597,8 @@ nav button {
     }
 
     .bottomSec p {
-        font-weight: 900;
-        font-size: 18px;
+        font-weight: 600;
+        font-size: 14px;
         line-height: 100%;
         text-transform: uppercase;
         color: #FFFFFF;
@@ -606,7 +606,7 @@ nav button {
 
     .botmiddle {
         text-align: center;
-        margin-left: 120px;
+        margin-left: 80px;
         margin-top: 40px;
     }
 
