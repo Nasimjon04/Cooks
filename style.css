@@ -170,7 +170,7 @@ nav button {
 
 
 
-@media (max-width: 798px) {
+@media (min-width: 798px) {
 
     .wrapper {
         max-width: 798px;
@@ -216,7 +216,7 @@ nav button {
     }
 
     .circle img {
-        margin: 0 50px;
+        margin: 0 15px;
         border-radius: 50%;
         width: 250px;
         height: 250px;
